@@ -2,7 +2,6 @@ package com.example.tiptimelab
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-//import com.example.tiptime.databinding.ActivityMainBinding
 import com.example.tiptimelab.databinding.ActivityMainBinding
 import java.text.NumberFormat
 
